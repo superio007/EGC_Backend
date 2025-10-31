@@ -51,7 +51,7 @@ A robust RESTful API built with Node.js, Express, and MongoDB for managing perso
 ## 📁 Project Structure
 
 ```
-backend/
+root/
 ├── models/               # Mongoose data models
 │   └── Transaction.js    # Transaction schema and methods
 ├── routes/              # Express route handlers
